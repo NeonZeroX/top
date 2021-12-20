@@ -78,27 +78,27 @@
                 <tr>
                     <th class="text-center">
                         <h4>
-                            <font color="red">*อาหาร*</font>
+                            <font color="red">อาหาร</font>
                         </h4>
                     </th>
                     <th class="text-center">
                         <h4>
-                            <font color="red">*เครื่องดื่ม*</font>
+                            <font color="red">เครื่องดื่ม</font>
                         </h4>
                     </th>
                     <th class="text-center">
                         <h4>
-                            <font color="red">*ราคา*</font>
+                            <font color="red">ราคา</font>
                         </h4>
                     </th>
                     <th class="text-center">
                         <h4>
-                            <font color="red">*แก้ไข*</font>
+                            <font color="red">แก้ไข</font>
                         </h4>
                     </th>
                     <th class="text-center">
                         <h4>
-                            <font color="red">*ยกเลิก*</font>
+                            <font color="red">ยกเลิก</font>
                         </h4>
 						
                     </th>
